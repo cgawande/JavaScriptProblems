@@ -1,4 +1,4 @@
-// write   programm to check string is palindorm or not
+// write   programm to check string is palindrome or not
 // 
 
 function checkPalindrome(str) {
@@ -22,4 +22,4 @@ function checkPalindrome(str) {
 
 
 
-console.log(checkPalindrome("naman"));
+console.log(checkPalindrome("121"));
