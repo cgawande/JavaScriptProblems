@@ -1,3 +1,5 @@
+// write a programm to print solid square pattern
+
 let n = 5;
 let output = "";
 
