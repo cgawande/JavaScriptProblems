@@ -9,4 +9,3 @@ for (i = 1; i <= n; i++) {
     curr = pre + temp;
     console.log(curr)
 }
-console.log(curr)
