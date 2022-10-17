@@ -1,5 +1,5 @@
 // factor 
-let n = 4;
+let n = 5;
 out = 1;
 
 for (i = 1; i <= n; i++) {
